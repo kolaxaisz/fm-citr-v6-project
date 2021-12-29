@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/.gitignore
+/.idea/dbnavigator.xml
+/.idea/fm-citr-v6-project.iml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/vcs.xml
